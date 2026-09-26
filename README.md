@@ -13,7 +13,7 @@ Widgets do iCUE para a **CORSAIR XENEON EDGE**. Cada widget tem seus downloads n
 
 | Widget | O que faz | Download |
 |---|---|---|
-| **Bluetooth** | Lista os dispositivos Bluetooth e liga/desliga o Bluetooth do PC e cada dispositivo com um toque | [Releases `bluetooth-v…`](../../releases?q=bluetooth&expanded=true) |
+| **Bluetooth Control** | Lista os dispositivos Bluetooth e liga/desliga o Bluetooth do PC e cada dispositivo com um toque | [Releases `bluetooth-v…`](../../releases?q=bluetooth&expanded=true) |
 
 ### Como instalar um widget
 
@@ -46,7 +46,7 @@ tags starting with the widget name (e.g. `bluetooth-v0.1.1`).
 
 | Widget | What it does | Download |
 |---|---|---|
-| **Bluetooth** | Lists Bluetooth devices and turns the PC's Bluetooth, and each device, on and off with a tap | [Releases `bluetooth-v…`](../../releases?q=bluetooth&expanded=true) |
+| **Bluetooth Control** | Lists Bluetooth devices and turns the PC's Bluetooth, and each device, on and off with a tap | [Releases `bluetooth-v…`](../../releases?q=bluetooth&expanded=true) |
 
 ### How to install a widget
 
