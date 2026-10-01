@@ -32,6 +32,14 @@ Widgets do iCUE rodam isolados e não acessam recursos do Windows, como Bluetoot
 Bridge faz esse papel e só aceita conexões do próprio PC (`127.0.0.1`) vindas dos widgets no iCUE. Ele não envia nada
 pela internet; só procura atualização ao abrir.
 
+### Suporte
+
+- 📧 E-mail: **[sirchagas.dev@gmail.com](mailto:sirchagas.dev@gmail.com)**
+- 🐞 Ou abra um chamado em **[Issues](../../issues)**
+
+Ajuda a resolver mais rápido: o nome do widget, o que aconteceu e, se puder, o log do app, que fica em
+`%LOCALAPPDATA%\ChagasMarketBridgeData\bridge.log` (no menu do ChagasMarket Bridge na bandeja: **Abrir pasta de logs**).
+
 ### Requisitos
 
 - Windows 10 ou 11
@@ -67,6 +75,14 @@ Download **[ChagasMarketBridge-bridge-Setup.exe](../../releases/latest/download/
 iCUE widgets run sandboxed and cannot reach Windows features such as Bluetooth, audio and typing. ChagasMarket Bridge
 does that job and only accepts local connections (`127.0.0.1`) coming from the widgets inside iCUE. It sends nothing
 over the internet; it only checks for updates when it starts.
+
+### Support
+
+- 📧 E-mail: **[sirchagas.dev@gmail.com](mailto:sirchagas.dev@gmail.com)**
+- 🐞 Or open a ticket in **[Issues](../../issues)**
+
+To get help faster, include the widget name, what happened and, if you can, the app log at
+`%LOCALAPPDATA%\ChagasMarketBridgeData\bridge.log` (in the ChagasMarket Bridge tray menu: **Open log folder**).
 
 ### Requirements
 
