@@ -34,8 +34,7 @@ pela internet; só procura atualização ao abrir.
 
 ### Suporte
 
-- 📧 E-mail: **[sirchagas.dev@gmail.com](mailto:sirchagas.dev@gmail.com)**
-- 🐞 Ou abra um chamado em **[Issues](../../issues)**
+- 🐞 Abra um chamado em **[Issues](../../issues)**
 
 Ajuda a resolver mais rápido: o nome do widget, o que aconteceu e, se puder, o log do app, que fica em
 `%LOCALAPPDATA%\ChagasMarketBridgeData\bridge.log` (no menu do ChagasMarket Bridge na bandeja: **Abrir pasta de logs**).
@@ -78,8 +77,7 @@ over the internet; it only checks for updates when it starts.
 
 ### Support
 
-- 📧 E-mail: **[sirchagas.dev@gmail.com](mailto:sirchagas.dev@gmail.com)**
-- 🐞 Or open a ticket in **[Issues](../../issues)**
+- 🐞 Open a ticket in **[Issues](../../issues)**
 
 To get help faster, include the widget name, what happened and, if you can, the app log at
 `%LOCALAPPDATA%\ChagasMarketBridgeData\bridge.log` (in the ChagasMarket Bridge tray menu: **Open log folder**).
