@@ -35,7 +35,9 @@ encontrado"** mesmo com o app aberto. Para liberar:
 
    ![Acesso do widget com localhost:48731](docs/icue-acesso-do-widget.png)
 
-3. Pronto: vale na hora, sem reiniciar. Em poucos segundos o widget conecta.
+3. Confira: as chaves ficam **verdes**. Vale na hora, sem reiniciar; em poucos segundos o widget conecta.
+
+   ![Acesso do widget liberado, com as chaves verdes](docs/icue-acesso-liberado.png)
 
 ### Widgets
 
@@ -97,7 +99,9 @@ even with the app running. To allow it:
 
    ![Widget Access with localhost:48731](docs/icue-acesso-do-widget.png)
 
-3. Done: it applies right away, no restart needed. The widget connects within a few seconds.
+3. Check: the switches turn **green**. It applies right away, no restart needed; the widget connects within a few seconds.
+
+   ![Widget Access allowed, with green switches](docs/icue-acesso-liberado.png)
 
 *(Screenshots from iCUE in Portuguese; the menus are in the same place in English.)*
 
