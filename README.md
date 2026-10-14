@@ -29,13 +29,19 @@ encontrado"** mesmo com o app aberto. Para liberar:
 
    ![Configurações do iCUE com Acesso do widget](docs/icue-configuracoes.png)
 
-2. Em cada widget da ChagasMarket (**AI Actions**, **Audio Switch**, **Bluetooth Control**, **Calculator Pro**), ligue a
-   chave de **`localhost:48731`**. Se o bloco estiver fechado, clique na setinha **⌄** ao lado de **URL**.
-   - No **Calculator Pro**, ligue também **`api.frankfurter.dev`** (cotações das moedas).
+2. Aparece a lista de widgets, toda fechada. **É preciso entrar em um por um**: AI Actions, Audio Switch, Calculator Pro
+   e Controle Bluetooth (só os que você usa).
 
-   ![Acesso do widget com localhost:48731](docs/icue-acesso-do-widget.png)
+   ![Lista de widgets em Acesso do widget](docs/icue-lista-de-widgets.png)
 
-3. Confira: as chaves ficam **verdes**. Vale na hora, sem reiniciar; em poucos segundos o widget conecta.
+3. **Em cada widget**, clique no nome para abrir e **habilite a chave de `localhost:48731`**. Se o bloco **URL** estiver
+   fechado, clique na setinha **⌄** para ver a chave. Depois feche e passe para o próximo widget.
+   - No **Calculator Pro** são **duas chaves**: `localhost:48731` e `api.frankfurter.dev` (cotações das moedas).
+
+   ![Widget aberto, com a chave de localhost:48731](docs/icue-acesso-do-widget.png)
+
+4. Confira: em todos os widgets da ChagasMarket as chaves ficam **verdes**. Vale na hora, sem reiniciar; em poucos
+   segundos cada widget conecta.
 
    ![Acesso do widget liberado, com as chaves verdes](docs/icue-acesso-liberado.png)
 
@@ -93,13 +99,19 @@ even with the app running. To allow it:
 
    ![iCUE settings with Widget Access](docs/icue-configuracoes.png)
 
-2. For each ChagasMarket widget (**AI Actions**, **Audio Switch**, **Bluetooth Control**, **Calculator Pro**), turn on
-   **`localhost:48731`**. If the block is collapsed, click the **⌄** arrow next to **URL**.
-   - In **Calculator Pro**, also turn on **`api.frankfurter.dev`** (currency rates).
+2. The widget list shows up, all collapsed. **You need to open them one by one**: AI Actions, Audio Switch, Calculator
+   Pro and Bluetooth Control (only the ones you use).
 
-   ![Widget Access with localhost:48731](docs/icue-acesso-do-widget.png)
+   ![Widget list in Widget Access](docs/icue-lista-de-widgets.png)
 
-3. Check: the switches turn **green**. It applies right away, no restart needed; the widget connects within a few seconds.
+3. **In each widget**, click its name to open it and **turn on the `localhost:48731` switch**. If the **URL** block is
+   collapsed, click the **⌄** arrow to see the switch. Then close it and move on to the next widget.
+   - **Calculator Pro** has **two switches**: `localhost:48731` and `api.frankfurter.dev` (currency rates).
+
+   ![Widget opened, with the localhost:48731 switch](docs/icue-acesso-do-widget.png)
+
+4. Check: on every ChagasMarket widget the switches turn **green**. It applies right away, no restart needed; each widget
+   connects within a few seconds.
 
    ![Widget Access allowed, with green switches](docs/icue-acesso-liberado.png)
 
